@@ -1,0 +1,4 @@
+- Chế xe điều khiển từ xa với điều khiển PS2, sử dụng IC điều khiển MX1508
+- Thư viện PS2 cho ESP32: https://github.com/MyArduinoLib/Arduino-PS2X-ESP32
+- Thư viện MX1508 cho ESP32: https://github.com/ElectroMagus/ESP32MX1508
+- Link video hướng dẫn: https://youtu.be/ylHj-apSoWU
